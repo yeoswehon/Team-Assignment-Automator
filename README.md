@@ -16,6 +16,6 @@ This repository contains the scripts and notebooks used to automatically split e
 - How do we handle leftovers when 50 is not a multiple of the chosen team size?
 
 ## Algorithm Summary
-- Timsort (hybrid of Insertion Sort and Merge Sort) for fast sorting of CGPP Data
+- Timsort (hybrid of Insertion Sort and Merge Sort) for fast sorting of CGPA Data
 - Quartile binning to seed CGPA Teams
 - Greedy Assignment to group students
